@@ -6,15 +6,10 @@
 	"license": "MIT",
 	"repositories": [
 		{
-			"type": "package",
-			"package": {
-				"name": "dempuldev/ci3_template_1",
-				"version": "1.0.0",
-				"source": {
-					"url": "https://github.com/dempuldev/ci3_template_1.git",
-					"type": "git",
-					"reference": "master"
-				}
+			"source": {
+				"url": "https://github.com/dempuldev/ci3_template_1.git",
+				"type": "git",
+				"reference": "master"
 			}
 		}
 	],
