@@ -10,4 +10,6 @@ XAMPP 3.3.0 for Windows
 Installation
 ************
 
+```bash
 composer create-project dempuldev/ci3_template_1 <nama_projek>
+```
