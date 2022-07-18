@@ -4,15 +4,7 @@
 	"type": "project",
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
-	"repositories": [
-		{
-			"source": {
-				"url": "https://github.com/dempuldev/ci3_template_1.git",
-				"type": "git",
-				"reference": "master"
-			}
-		}
-	],
+	
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
 		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
@@ -20,8 +12,7 @@
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
 	"require": {
-		"php": ">=5.6",
-		"dempuldev/ci3_template_1": "*"
+		"php": ">=5.6"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
