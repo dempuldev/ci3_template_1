@@ -21,7 +21,7 @@
 	},
 	"require": {
 		"php": ">=5.6",
-		"dempuldev/ci3_template_1": "1.0.0"
+		"dempuldev/ci3_template_1": "*"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
